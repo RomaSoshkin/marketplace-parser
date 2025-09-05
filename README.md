@@ -20,6 +20,21 @@
 - **⚙️ Конфигурирование**: Гибкая настройка через переменные окружения
 - **📊 Валидация данных**: Проверка целостности и структуры получаемых данных
 
+## 🚀 Установка
+
+```bash
+git clone https://github.com/RomaSoshkin/marketplace-parser.git
+cd marketplace-parser
+
+python -m venv venv
+source venv/bin/activate  # Linux/MacOS
+# или
+venv\Scripts\activate     # Windows
+
+pip install -r requirements.txt
+
+```bash
+
 ## 🛠 Технологический стек
 
 **Backend:**
